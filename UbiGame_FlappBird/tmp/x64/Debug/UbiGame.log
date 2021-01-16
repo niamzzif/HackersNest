@@ -1,0 +1,50 @@
+﻿  TextRenderComponent.cpp
+  PlayerCameraComponent.cpp
+  CameraManager.cpp
+  PlayerSoundComponent.cpp
+  ParticleComponent.cpp
+  ParticleEmitterComponent.cpp
+  SoundComponent.cpp
+  AnimationManager.cpp
+  AnimationComponent.cpp
+  CollidablePhysicsComponent.cpp
+  CollidableComponent.cpp
+  CollisionManager.cpp
+  SoundManager.cpp
+C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\Source\GameEngine\Util\SoundManager.cpp(122,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+  ObstacleEntity.cpp
+  PlayerMovementComponent.cpp
+  PlayerEntity.cpp
+  GameBoard.cpp
+  RenderComponent.cpp
+  Component.cpp
+  main.cpp
+  Generating Code...
+  Compiling...
+  Entity.cpp
+  GameEngineMain.cpp
+  TextureManager.cpp
+  SpriteRenderComponent.cpp
+  Generating Code...
+  UbiGame.vcxproj -> C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\bin\x64\Debug\UbiGame.exe
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\Resources\fonts\arial.ttf
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\Resources\img\bg.png
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\Resources\img\Flappy.png
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\Resources\img\particles.png
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\Resources\img\player.png
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\Resources\img\tileset.png
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\Resources\snd\glassBreak.wav
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\Resources\snd\thunder.wav
+  8 File(s) copied
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\openal32.dll
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\sfml-audio-2.dll
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\sfml-audio-d-2.dll
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\sfml-graphics-2.dll
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\sfml-graphics-d-2.dll
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\sfml-network-2.dll
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\sfml-network-d-2.dll
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\sfml-system-2.dll
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\sfml-system-d-2.dll
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\sfml-window-2.dll
+  C:\CS\Hackathons\HTN\Ubisoft\HackersNest\UbiGame_FlappBird\..\SFML-2.5.0\bin\sfml-window-d-2.dll
+  11 File(s) copied
